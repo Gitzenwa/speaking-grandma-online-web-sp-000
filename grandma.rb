@@ -2,7 +2,6 @@
 def speak_to_grandma(phrase)
   if phrase.downcase
      "HUH?! SPEAK UP, SONNY!"
-  elsif
   end
 end
 # Whatever you say to grandma, she should respond with
